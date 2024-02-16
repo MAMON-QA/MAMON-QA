@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Software Testing **
 
-- 👨‍💻 All of my projects are available [@Mejbaur Bahar Fagun](https://github.com/fagunti)
+- 👨‍💻 All of my projects are available [@AL Mamon](https://github.com/MAMON-QA)**
 
 - 💬 Ask me about **Software Testing & Cyber Security 😆**
 
